@@ -1,4 +1,4 @@
-# U6S6 - Static Variables and Methods
+# U7S6 - Static Variables and Methods
 
 * Part A - Foundations 7.6
 
